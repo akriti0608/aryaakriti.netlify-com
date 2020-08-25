@@ -1,0 +1,30 @@
+.site-header{
+    background-color: aqua;
+    color: black;
+    height: 100vh;
+    font-family : monospace;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.site-header-content{
+    margin: 10px;
+}
+
+.profile-pic{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    align-self: center;
+    box-shadow: brown 5px 5px 5px;
+}
+
+.link-url{
+    color: black; 
+}
+
+body{
+    margin: 0;
+}
